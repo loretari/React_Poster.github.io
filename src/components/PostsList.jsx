@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState} from 'react';
 import Post from "./Post";
 import NewPost from './NewPost';
 import Modal from './Modal';
